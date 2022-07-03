@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposedscope">
+        <item>org.telegram.messenger</item>
+        <item>org.telegram.plus</item>
+    </string-array>
+</resources>
